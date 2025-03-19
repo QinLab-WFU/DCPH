@@ -1,4 +1,6 @@
-# Deep Consistent Penalizing Hashing with noise-robust representation for large-scale image retrieval, Neurocomputing2025, [[Link]](https://doi.org/10.1016/j.neucom.2025.130014)
+# Deep Consistent Penalizing Hashing with noise-robust representation for large-scale image retrieval  
+Neurocomputing2025  
+[[Link]](https://doi.org/10.1016/j.neucom.2025.130014)
 
 ## Dataset
 
